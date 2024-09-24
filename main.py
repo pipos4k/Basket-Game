@@ -7,7 +7,6 @@
 # The game ends when the player runs out of lives.
 import turtle
 import time
-
 import player
 import lives
 
